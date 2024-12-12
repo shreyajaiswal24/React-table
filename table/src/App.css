@@ -1,0 +1,14 @@
+.homeDiv{
+  padding: 0.5rem 10rem;
+}
+
+.search{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search input{
+  padding: 0 5px;
+  height: 20px;
+}
